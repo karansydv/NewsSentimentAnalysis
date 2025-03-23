@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+nltk
+matplotlib
+sentence-transformers
+scikit-learn
+transformers
+torch
+numpy
+gtts
+deep-translator
